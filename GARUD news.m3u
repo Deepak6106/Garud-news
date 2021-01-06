@@ -1,0 +1,68 @@
+#EXTM3U
+#PLAYLIST:iptvcat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title=" GARUD News",News18 Lokmat
+https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/02/154995154574197104.png" group-title=" GARUD News",Republic Bharat
+https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8?hdnts=st=1567723990~exp=1567726990~acl=/*~hmac=40fec7023d1d84b24d1267d9ee0ab92bceff3d35274ebef7be58aaeea1472868&checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="0-9-zee24taas" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zee24taas/list/386x386/09zee24taaszee24taas.png" group-title=" GARUD News", प्रसाद  ",Zee 24 Taas
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=Prasadelectric_6532140&c=0-9-zee24taas
+
+#EXTINF:-1 tvg-id="0-9-270" tvg-logo="https://akamaividz.zee5.com/resources/0-9-270/list/386x386/saamtv.png" group-title=" GARUD News", प्रसाद  ",Saam TV
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=Prasadelectric_6532140&c=0-9-270
+
+#EXTINF:-1 tvg-id="SaamTV" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0428.SaamTV.in/1x1/1x/test_pic1555921889633.jpg" group-title=" GARUD News",Saam TV
+https://m-c01-j2apps.s.llnwi.net/hls/0428.SaamTV.in.m3u8
+
+#EXTINF:-1 tvg-id="0-9-257" tvg-logo="https://akamaividz.zee5.com/resources/0-9-257/list/386x386/09257tv9marathi.png" group-title=" GARUD News", प्रसाद  ",TV9 Marathi
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=Prasadelectric_6532140&c=0-9-257
+
+
+#EXTINF:0 tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/Screenshot_1-8.png" group-title=" GARUD News",Times Now HD
+https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="IN" tvg-logo="https://static.abplive.in/wp-content/themes/abp-hindi/images/logo/hindiLogoD.png" group-title=" GARUD News",ABP News
+https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="IN" tvg-logo="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_News.png" group-title=" GARUD News",DD News
+https://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/mirror_now_in.png" group-title=" GARUD News",Mirror Now
+https://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/master.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/80vwZaO.png" group-title=" GARUD News",NDTV India
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/pQ7nl12.png" group-title=" GARUD News",NDTV Profit
+https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/ndtvprofitmaster.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/news24-2.jpg" group-title=" GARUD News",News 24
+https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title=" GARUD News",AAJ TAK HD
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8?checkedby:iptvcat.com
+
+
+#EXTINF:0 tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/news24-2.jpg" group-title=" GARUD News",News 24
+https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/02/154995154574197104.png" group-title=" GARUD News",Republic Bharat
+https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8?hdnts=st=1567723990~exp=1567726990~acl=/*~hmac=40fec7023d1d84b24d1267d9ee0ab92bceff3d35274ebef7be58aaeea1472868&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/Z3PgblG.png" group-title=" GARUD News",Republic Bharat
+https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/PvI2PCX.png" group-title=" GARUD News",Republic TV
+https://weblive.republicworld.com/liveorigin/republictv/master_hdlive_360p.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="0-9-206" tvg-logo="https://akamaividz.zee5.com/resources/0-9-206/list/386x386/09206news24.png" group-title=" GARUD News", प्रसाद  ",News24
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=Prasadelectric_6532140&c=0-9-206
+
+#EXTINF:-1 tvg-id="0-9-170" tvg-logo="https://akamaividz.zee5.com/resources/0-9-170/list/386x386/09170newsnation.png" group-title=" GARUD News", प्रसाद  ",News Nation
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=Prasadelectric_6532140&c=0-9-170
+
+
+
+
+
+
+
+
