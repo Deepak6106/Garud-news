@@ -7,6 +7,16 @@ https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8?hdnts=st=1567
 
 #EXTINF:-1 tvg-id="0-9-zee24taas" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zee24taas/list/386x386/09zee24taaszee24taas.png" group-title=" GARUD News", प्रसाद  ",Zee 24 Taas
 http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=Prasadelectric_6532140&c=0-9-zee24taas
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title=" GARUD News", ZEE 24 Taas
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=45486
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title=" GARUD News", TV9 Marathi
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193016
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title=" GARUD News", SAAM Marathi
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=196103
+
+
 
 #EXTINF:-1 tvg-id="0-9-270" tvg-logo="https://akamaividz.zee5.com/resources/0-9-270/list/386x386/saamtv.png" group-title=" GARUD News", प्रसाद  ",Saam TV
 http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=Prasadelectric_6532140&c=0-9-270
